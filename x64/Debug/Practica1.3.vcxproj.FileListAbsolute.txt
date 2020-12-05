@@ -1,0 +1,2 @@
+C:\Users\helen\source\repos\Practica1.3\x64\Debug\Practica1.3.exe
+C:\Users\helen\source\repos\Practica1.3\x64\Debug\Practica1.3.pdb
